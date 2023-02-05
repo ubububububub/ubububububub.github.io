@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_default=self.webpackChunkgatsby_starter_default||[]).push([[218],{2513:function(e,t,a){a.r(t);var l=a(1729),s=a(7294);t.default=function(){return s.createElement(l.Z,null,s.createElement("div",{className:"py-8 flex flex-col justify-center items-center"},s.createElement("h2",{className:"text-8xl font-bold"},"404"),s.createElement("p",{className:"mt-8"},"찾을 수 없는 페이지입니다.")))}}}]);
+//# sourceMappingURL=component---src-pages-404-tsx-10960204c6160021c5b9.js.map

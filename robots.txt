@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://ubububububub.github.io/sitemap-index.xml
+Host: https://ubububububub.github.io
