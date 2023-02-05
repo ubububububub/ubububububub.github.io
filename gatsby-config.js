@@ -14,7 +14,7 @@ module.exports = {
     author: 'ubububububub',
     imageUrl:
       'https://res.cloudinary.com/dhfkiaac8/image/upload/v1675567997/blog%20thumbnail/ub_mphoei.png',
-    siteUrl: 'https://my-website-link.com',
+    siteUrl: 'https://ubububububub.github.io/',
   },
   plugins: [
     {
@@ -73,7 +73,7 @@ module.exports = {
           {
             resolve: 'gatsby-plugin-canonical-urls',
             options: {
-              siteUrl: '<https://my-website.com/>',
+              siteUrl: 'https://ubububububub.github.io/',
               stripQueryString: true,
             },
           },

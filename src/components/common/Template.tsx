@@ -45,6 +45,8 @@ const Template: FunctionComponent<TemplateProps> = function ({
         <meta property="og:image" content={imageUrl} />
         <meta property="og:url" content={siteUrl} />
         <meta property="og:site_name" content={title} />
+        <meta property="og:image:width" content="1200" />
+        <meta property="og:image:height" content="630" />
 
         <meta name="twitter:card" content="summary" />
         <meta name="twitter:title" content={title} />
@@ -52,8 +54,6 @@ const Template: FunctionComponent<TemplateProps> = function ({
         <meta name="twitter:image" content={imageUrl} />
         <meta name="twitter:site" content="ubububububub" />
         <meta name="twitter:creator" content="ubububububub" />
-        <meta property="og:image:width" content="1200" />
-        <meta property="og:image:height" content="630" />
 
         <meta name="description" content={description} />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -61,7 +61,7 @@ const Template: FunctionComponent<TemplateProps> = function ({
 
         <html lang="ko" />
 
-        <body className="w-screen h-screen bg-light__background text-light__text dark:text-text dark:bg-background overflow-x-hidden" />
+        <body className="w-screen h-screen text-text bg-background overflow-x-hidden" />
       </Helmet>
 
       <Header />
